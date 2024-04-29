@@ -3,7 +3,6 @@ Welcome to the RTS Scheduling Algorithm repository! This repository contains imp
 
 
 <br>
-<br>
 
 # Real-Time Scheduling Algorithms Implemented:
 
