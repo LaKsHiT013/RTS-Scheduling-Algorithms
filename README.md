@@ -51,5 +51,5 @@ These implementations are for educational purposes and may not be suitable for d
 
 _________________________________________________________________
 
-For any questions or concerns, please don't hesitate to reach out.
+For any questions or concerns, please don't hesitate to reach out. <br>
 Happy scheduling! 🕒
