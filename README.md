@@ -1,5 +1,8 @@
 # RTS Scheduling Algorithm Repository
 Welcome to the RTS Scheduling Algorithm repository! This repository contains implementations of several Real-Time Scheduling (RTS) algorithms along with a task generator.
+
+
+<br>
 <br>
 # Real-Time Scheduling Algorithms Implemented:
 
